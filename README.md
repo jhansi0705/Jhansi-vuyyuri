@@ -8,10 +8,15 @@ I am passionate Web developer and Computer Science Student🖥️.
 
 ##⚒️Skills:
 --Frontend:HTML,CSS, JavaScript,React
+
 --Database:Mysql
+
 --Tools:github,git,Figma
+
 
 ##☎️ Contact:
 --📧Email: (jhansivuyyuri858@gmail.com)
+
 --🖇️ LinkedIn: (https://www.linkedin.com/in/jhansi-vuyyuri-48a8b0289)
+
 --📈Github:(https://github.com/jhansi0705)
